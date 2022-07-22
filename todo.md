@@ -6,11 +6,8 @@
 
 ### In Progress 🚧
 
-- [ ] something
+- [ ] Finish N and Nazis 
 
-### Needs Testing 🧪
-
-- [ ] PLEASE TEST
 <hr>
 
 ### Done ✓
