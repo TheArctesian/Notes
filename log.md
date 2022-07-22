@@ -23,3 +23,16 @@
 Init repo, started to read audio book on Neitzche and Hitler, also prayed last night to see if their was a deity. I wanted to wake up today and be 5 years ago, I have derived that their is no deity as I am still here.
 
 <hr>
+
+<strong>Time: </strong>  14:52
+<br>
+<strong>Date: </strong>  22.07.22
+<br>
+<strong>Location: </strong> LA, Huntly Hotel
+<br>
+<strong>Emotion </strong> 4/10
+<br>
+<strong>Description: </strong>
+<br>
+Added in Nala notes for a better APT, I have been wasting time since the last commit I will stop now
+<hr>
