@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/Linux/Beter APT.md",
+            "file": "Philosophy/Nietzsche and the Nazis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Linux/Beter APT.md",
+                "file": "Philosophy/Nietzsche and the Nazis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Linux/Beter APT.md",
+                "file": "Philosophy/Nietzsche and the Nazis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Linux/Beter APT.md"
+                "file": "Philosophy/Nietzsche and the Nazis.md"
               }
             }
           }
@@ -130,9 +130,10 @@
   },
   "active": "c258f555e5f82c31",
   "lastOpenFiles": [
+    "Political Economy/Economic/Wages are not drawn from capital.md",
     "Philosophy/Nietzsche and the Nazis.md",
+    "Technology/Linux/Beter APT.md",
     "2022-07-22.md",
-    "History/People/People.md",
-    "Political Economy/Economic/Wages are not drawn from capital.md"
+    "History/People/People.md"
   ]
 }
