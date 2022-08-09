@@ -1,0 +1,4 @@
+- Why price dose not matter for crypto
+- Cryptochess, how video games should do cosmetics (a petite ego trip)
+- Why I like cardano
+- Can we regulate crypto
