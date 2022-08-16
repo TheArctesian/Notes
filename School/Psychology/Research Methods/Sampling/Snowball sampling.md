@@ -1,0 +1,1 @@
+snowball sampling is a nonprobability sampling technique where existing study subjects recruit future subjects from among their acquaintances.

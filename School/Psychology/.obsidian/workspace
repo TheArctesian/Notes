@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "8793d52763c65eaa",
+        "id": "9943c97748257ef9",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8793d52763c65eaa",
+  "active": "9943c97748257ef9",
   "lastOpenFiles": [
-    "Research Methods.md",
-    "Research Methods/Research Methods.md",
-    "Research Methods/Methods/Method triangulation.md",
+    "Studies/Tversky and Kahneman (1974).md",
+    "Research Methods/Evaluating Experiments/Artificiality.md",
     "Research Methods/Evaluating Research.md",
-    "Research Methods/Ethics/Confidentiality.md",
-    "Research Methods/Ethics/Informed Consent.md",
-    "Study Methods.md",
-    "Research Methods/Methods/Correlational studies.md",
-    "Research Methods/Ethics/Observational research.md",
-    "Research Methods/Ethics/Incentives to take part.md"
+    "Research Methods/Research Methods.md",
+    "Research Methods/Evaluating Experiments/Participants Variability.md",
+    "Research Methods/Evaluating Experiments/Researcher Bias.md",
+    "Research Methods/Evaluating Experiments/Demand Characteristics.md",
+    "Research Methods/Evaluating Experiments/Extranous Variables.md",
+    "Research Methods/Sampling/Stratified Sampling.md",
+    "Research Methods/Sampling/Snowball sampling.md"
   ]
 }

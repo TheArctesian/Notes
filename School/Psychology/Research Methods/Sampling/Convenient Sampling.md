@@ -1,0 +1,1 @@
+Participants are selected based on naturally occurring groups

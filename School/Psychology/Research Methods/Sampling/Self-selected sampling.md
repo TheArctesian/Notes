@@ -1,0 +1,1 @@
+Participants volunteer - usually in response to an advertisement in the local community or over the internet

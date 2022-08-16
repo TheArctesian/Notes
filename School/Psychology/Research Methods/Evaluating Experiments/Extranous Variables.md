@@ -1,0 +1,1 @@
+Variables that can not be controlled, if they are high then the study lacks internal validity. If none then there is high external validity

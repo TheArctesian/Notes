@@ -1,0 +1,1 @@
+Methods of selecting participants for a study where each member of the population has an equal chance of being selected. This can be done with a random # generator or by pulling names out of a hat

@@ -1,4 +1,3 @@
-
 Methods
 - [[Case Study]]
 - [[Correlational studies]]

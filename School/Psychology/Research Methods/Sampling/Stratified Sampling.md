@@ -1,0 +1,1 @@
+The sample matches the make-up of the population. Participants from with various subgroups of the population are randomly selected
