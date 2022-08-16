@@ -1,0 +1,1 @@
+ The use of more than one [[Research Methods]] to carry out a study.  Case studies often use method triangulation.  This is important because it increases the credibility of the study - we know it was not the choice of the research method alone that led to the findings.

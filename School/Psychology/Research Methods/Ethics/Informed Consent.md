@@ -1,0 +1,1 @@
+Investigators should give participants sufficient details of an investigation that enable them to make a considered choice as to whether they wish to participate. Parental consent should be obtained in the case of children under 16. Informed consent cannot be gained from those under the influence of alcohol or drugs or those mentally unfit to do so.

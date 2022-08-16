@@ -1,0 +1,1 @@
+Investigators have a responsibility to protect participants from physical and mental harm during the investigation, no greater than irl.
