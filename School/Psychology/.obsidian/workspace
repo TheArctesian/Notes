@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d47f6d778a16620a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6a19abbf05989e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biological/Brain and Behaviour/Localization of Function.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48eb9de1cefe3826",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4910c9882de6c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f370a2f0c03132c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32ef9b7156d9718d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d1c3385cc1040bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72836977b37bb029",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb016f76572fa41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587d433012395b9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biological/Brain and Behaviour/Localization of Function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff258a8b1c1a26c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biological/Brain and Behaviour/Localization of Function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdc4cbda9f2021c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65d7f38f5ad35c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biological/Brain and Behaviour/Localization of Function.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b6a19abbf05989e",
+  "lastOpenFiles": [
+    "Studies/HM: Milner (1966).md",
+    "Biological/Brain and Behaviour/Localization of Function.md",
+    "Core/Biological Approach.md",
+    "Sociocultural/Origins and effects of culture/Acculturation.md",
+    "Sociocultural/Origins and effects of culture/Cultural dimensions.md",
+    "Studies/Lueck and Wilson (2010).md",
+    "Core/Sociocultural Approach.md",
+    "Sociocultural/Individual and the group/Effects of stereotypes.md",
+    "Core/Cognitive Approach.md",
+    "2022-08-16.md"
+  ]
+}
