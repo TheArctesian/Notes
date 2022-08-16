@@ -1,0 +1,1 @@
+Participants should be aware that they can leave a study at any time, and can withdraw their data after the study has finished.

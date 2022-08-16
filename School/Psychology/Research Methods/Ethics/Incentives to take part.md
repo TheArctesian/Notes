@@ -1,0 +1,1 @@
+Participants should not be offered bribes or promised rewards for their participation as it puts pressure on them.

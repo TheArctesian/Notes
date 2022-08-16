@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6a19abbf05989e",
+        "id": "8793d52763c65eaa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Studies/HM: Milner (1966).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "corr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/HM: Milner (1966).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/HM: Milner (1966).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Studies/HM: Milner (1966).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b6a19abbf05989e",
+  "active": "8793d52763c65eaa",
   "lastOpenFiles": [
-    "Biological/Brain and Behaviour/Localization of Function.md",
-    "Cognitive/Cognitive Processes/Intuitive vs rational thinkin.md",
-    "Studies/HM: Milner (1966).md",
-    "Core/Biological Approach.md",
-    "Sociocultural/Origins and effects of culture/Acculturation.md",
-    "Sociocultural/Origins and effects of culture/Cultural dimensions.md",
-    "Studies/Lueck and Wilson (2010).md",
-    "Core/Sociocultural Approach.md",
-    "Sociocultural/Individual and the group/Effects of stereotypes.md",
-    "Core/Cognitive Approach.md"
+    "Research Methods.md",
+    "Research Methods/Research Methods.md",
+    "Research Methods/Methods/Method triangulation.md",
+    "Research Methods/Evaluating Research.md",
+    "Research Methods/Ethics/Confidentiality.md",
+    "Research Methods/Ethics/Informed Consent.md",
+    "Study Methods.md",
+    "Research Methods/Methods/Correlational studies.md",
+    "Research Methods/Ethics/Observational research.md",
+    "Research Methods/Ethics/Incentives to take part.md"
   ]
 }

@@ -1,0 +1,1 @@
+Observation are only made in public places where people might expect to be observed.

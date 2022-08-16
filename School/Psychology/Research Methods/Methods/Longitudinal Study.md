@@ -1,0 +1,1 @@
+Research over a period of time using observations, interviews or psychometric testing.  (Similar to a repeated measures design in an experiment).
