@@ -1,2 +1,0 @@
-- Is religon a force for good
-- Revoultionaries

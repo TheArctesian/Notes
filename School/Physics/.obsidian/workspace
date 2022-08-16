@@ -1,52 +1,29 @@
 {
   "main": {
-    "id": "99e65e554ef212e5",
+    "id": "23c3d265c69415ab",
     "type": "split",
     "children": [
       {
-        "id": "b6d97fb771b67d4c",
-        "type": "split",
-        "children": [
-          {
-            "id": "1842d739bacc8e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-7-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd8e6053642d446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-08-01.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "d2ca1d5d9d0a8058",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "180a9035d93448bd",
+    "id": "aaf1f64e0e92b293",
     "type": "split",
     "children": [
       {
-        "id": "5d6ea40cb8a42c6f",
+        "id": "a5bcbc3ae0caa90d",
         "type": "tabs",
         "children": [
           {
-            "id": "ff7b84189fe17db4",
+            "id": "d2376c4af6ccdcaf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +31,7 @@
             }
           },
           {
-            "id": "c58beade498ab8c1",
+            "id": "edf35c2c47683909",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,7 +46,7 @@
             }
           },
           {
-            "id": "a4a747ac32977e74",
+            "id": "ce4491cbe2438672",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -83,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "1c30345724629373",
+    "id": "b18bc194192b6289",
     "type": "split",
     "children": [
       {
-        "id": "f2cb9d35585c462f",
+        "id": "e5b87c30285512df",
         "type": "tabs",
         "children": [
           {
-            "id": "1ae58b19aa080770",
+            "id": "9353d6e98b9f7fa2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-7-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +84,18 @@
             }
           },
           {
-            "id": "d93afad52248a67c",
+            "id": "67669ae22c73c913",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-7-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "88d5721174324908",
+            "id": "7cf23c31be16d190",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,13 +106,11 @@
             }
           },
           {
-            "id": "be4316d3991c81ed",
+            "id": "14f077ab01579861",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-7-22.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,9 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff7b84189fe17db4",
-  "lastOpenFiles": [
-    "2022-08-01.md",
-    "2022-7-22.md"
-  ]
+  "active": "d2ca1d5d9d0a8058",
+  "lastOpenFiles": []
 }

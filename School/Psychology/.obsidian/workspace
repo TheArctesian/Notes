@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biological/Brain and Behaviour/Localization of Function.md",
+            "file": "Studies/HM: Milner (1966).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biological/Brain and Behaviour/Localization of Function.md",
+                "file": "Studies/HM: Milner (1966).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biological/Brain and Behaviour/Localization of Function.md",
+                "file": "Studies/HM: Milner (1966).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biological/Brain and Behaviour/Localization of Function.md"
+                "file": "Studies/HM: Milner (1966).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4b6a19abbf05989e",
   "lastOpenFiles": [
-    "Studies/HM: Milner (1966).md",
     "Biological/Brain and Behaviour/Localization of Function.md",
+    "Cognitive/Cognitive Processes/Intuitive vs rational thinkin.md",
+    "Studies/HM: Milner (1966).md",
     "Core/Biological Approach.md",
     "Sociocultural/Origins and effects of culture/Acculturation.md",
     "Sociocultural/Origins and effects of culture/Cultural dimensions.md",
     "Studies/Lueck and Wilson (2010).md",
     "Core/Sociocultural Approach.md",
     "Sociocultural/Individual and the group/Effects of stereotypes.md",
-    "Core/Cognitive Approach.md",
-    "2022-08-16.md"
+    "Core/Cognitive Approach.md"
   ]
 }
