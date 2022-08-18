@@ -1,5 +1,6 @@
 
 ### Aim
+The aim of the study was to determine if in-group identity would affect one's willingness to conform.
 
 ### Method
 

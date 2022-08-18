@@ -2,6 +2,9 @@
 
 My Obsidian Notes
 
+## Contributing 
+
+If you would like to help me please do so, when editing I am in vim mode and that does carry over so please keep note of that. 
 ## Info
 
 ```

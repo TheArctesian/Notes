@@ -1,6 +1,6 @@
 ### Studies
 - [ ] [[Abrams et al (1990)]]
-- [ ] [[Antonova (2011)]]
+- [x] [[Antonova (2011)]]
 - [ ] [[Bandura (1961)]]
 - [ ] [[Berry (1967)]]
 - [ ] [[Caspi et al (2003)]]
@@ -20,15 +20,15 @@
 
 ### Biological
 - [ ] [[Evolution]] 
-- [ ] [[Genes and behaviour]]
+- [x] [[Genes and behaviour]]
 - [ ] [[Genetic Similarity]]
-- [ ] [[Hormones]]
-- [ ] [[Pheromones]] 
+- [x] [[Hormones]]
+- [x] [[Pheromones]] 
 
 ### Sociocultural
 - [ ] [[Effects of stereotypes]]
 - [ ] [[Formation of stereotypes]]
-- [ ] [[Social identity theory]]
+- [x] [[Social identity theory]]
 - [ ] [[Social cognitive theory]]
 - [ ] [[Acculturation]]
 - [ ] [[Enculturation]]
