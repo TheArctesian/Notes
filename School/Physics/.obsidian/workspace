@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "b37922e2b196a6d1",
+        "id": "1b20d366cb9e3381",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -120,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b37922e2b196a6d1",
+  "active": "1b20d366cb9e3381",
   "lastOpenFiles": [
     "(1) Measurments and Uncertainties/Uncertainty/Accuracy vs Precision.md",
     "(1) Measurments and Uncertainties/Measurments and Uncertainties.md",
