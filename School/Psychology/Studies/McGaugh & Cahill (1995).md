@@ -14,7 +14,7 @@ Participants were divided into 2 groups, each saw 12 slides of a story. The firs
 After 2 weeks the participants were invited back in and asked to preform a [[Cognitive Testing]] for memory. 
 
 ### Results 
-The traumatic group remembered more then the control group.
+The traumatic group remembered more than the control group.
 
 A follow up study was done with the traumatic group receiving a shot of propranolol, a beta blocked which slows the release of adrenaline. In this test both group preformed similarly 
 

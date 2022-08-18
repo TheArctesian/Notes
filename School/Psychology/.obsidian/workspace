@@ -4,35 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bee8bfd9eac72615",
-        "type": "split",
-        "children": [
-          {
-            "id": "1e7cadc9572fdedf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Landry and Bartling (2011).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a29bfa6f0df79db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Rosenzweig, Bennet & Diamond (1972).md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "198b4b7df7c02c4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "vertical"
+        }
+      },
+      {
+        "id": "b9f5b3ab642b5ee5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biological/Hormones and Pheromones/Pheromones.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -80,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "72836977b37bb029",
@@ -96,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Landry and Bartling (2011).md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/Landry and Bartling (2011).md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +129,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/Landry and Bartling (2011).md"
+                "file": "TODO.md"
               }
+            }
+          },
+          {
+            "id": "7c2dac8692ae6c20",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
             }
           }
         ]
@@ -147,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e7cadc9572fdedf",
+  "active": "198b4b7df7c02c4c",
   "lastOpenFiles": [
-    "Cognitive/Cognitive Processes/Memory Models.md",
-    "Studies/Kendler et al (2006).md",
-    "Studies/Antonova (2011).md",
-    "Studies/Rosenzweig, Bennet & Diamond (1972).md",
-    "Studies/McGaugh & Cahill (1995).md",
-    "Studies/Wedekind (1995).md",
-    "Studies/Maguire (2000).md",
-    "Research Methods/Evaluating Experiments/Extranous Variables.md",
-    "Research Methods/Evaluating Experiments/Participants Variability.md",
-    "Research Methods/Evaluating Experiments/Demand Characteristics.md"
+    "Biological/Hormones and Pheromones/Pheromones.md",
+    "Biological/Hormones and Pheromones/Hormones.md",
+    "Biological/Genetics/Genetic Similarity.md",
+    "TODO.md",
+    "Biological/Genetics/Genes and behaviour.md",
+    "Biological/Genetics/Evolution.md",
+    "Biological/Brain and Behaviour/Neurotransmission.md",
+    "Biological/Brain and Behaviour/Techniques.md",
+    "Biological/Brain and Behaviour/Neuroplasticity.md",
+    "Biological/Brain and Behaviour/Localization of Function.md"
   ]
 }

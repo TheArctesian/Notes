@@ -10,7 +10,7 @@ Single Blind as the reaserchers did not know which one they were looking at.
 
 It was Quasi as there is no cause and effect
 ### Procedure 
-16 right handed taxi drivers with over 1.5 years as a driver had their [[MRI]]'s taken and compared with 50 righ handed non taxi drivers.
+16 right handed taxi drivers with over 1.5 years as a driver had their [[MRI]]'s taken and compared with 50 right handed non taxi drivers.
 
 The researchers compared the MRI's with 2 methods. 
 
@@ -20,7 +20,7 @@ The researchers compared the MRI's with 2 methods.
 	to determine the size of the hippocampus
 	
 ### Results 
-Pixel counting reveled the postier hippocampus was larger and anterior was smaller. VBM showed the volume of the right postier hippocampus was directly proportional to the amount of years they had been driving
+Pixel counting revealed led the postier hippocampus was larger and anterior was smaller. VBM showed the volume of the right postier hippocampus was directly proportional to the amount of years they had been driving
 
 
 
