@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -69,25 +69,18 @@
         "a": 1,
         "rgb": 14701233
       }
-    },
-    {
-      "query": "path:\"Cognitive/Cognitive Processes\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.7,
-  "nodeSizeMultiplier": 0.903691186797753,
-  "lineSizeMultiplier": 2.26567174145299,
+  "nodeSizeMultiplier": 0.683333333333333,
+  "lineSizeMultiplier": 1.675,
   "collapse-forces": false,
-  "centerStrength": 0.290665064102564,
-  "repelStrength": 5.79059829059829,
-  "linkStrength": 0.943509615384615,
-  "linkDistance": 93,
-  "scale": 0.3207002746170469,
-  "close": true
+  "centerStrength": 0.172619047619048,
+  "repelStrength": 3.0952380952381,
+  "linkStrength": 0.535714285714286,
+  "linkDistance": 192,
+  "scale": 0.45882451123914825,
+  "close": false
 }

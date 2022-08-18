@@ -10,5 +10,8 @@ Methods
 - [[Natural and quasi-experiments]]
 - [[Observational techniques]]
 - [[Questionnaires]]
-
-
+- [[MRI]]
+- [[Psychometric Testing]]
+- [[Direct Observation]]
+- [[Cognitive Testing]]
+- 
