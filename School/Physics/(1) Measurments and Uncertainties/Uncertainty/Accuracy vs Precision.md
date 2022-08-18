@@ -1,0 +1,1 @@
+<img src="https://qph.cf2.quoracdn.net/main-qimg-9e405db65bb3d474a9050099884be17a">
