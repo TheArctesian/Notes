@@ -4,9 +4,9 @@
 Double blind [[Lab Experiment]]
 
 ### Background
-Evolutionary psychologists argue that our behaviors are the result of natural selection. One example is mating.  
+Evolutionary psychologists argue that our behaviours are the result of natural selection. One example is mating.  
 
-Wedekind studied a group of genes called the major histocompatibillity complex, a group of genes that play a major role in the immune system. MHC diversity results in a stronger immune system.
+Wedekind studied a group of genes called the major histocompatibility complex, a group of genes that play a major role in the immune system. MHC diversity results in a stronger immune system.
 
 ### Procedure 
 A group of men and women were [[Snowball sampling]] and tested for their MHC type. 

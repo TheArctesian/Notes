@@ -7,7 +7,7 @@
         "id": "c8f0ef547bfef0b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -130,6 +130,8 @@
   },
   "active": "c8f0ef547bfef0b4",
   "lastOpenFiles": [
+    "Studies/Wedekind (1995).md",
+    "Biological/Hormones and Pheromones/Pheromones.md",
     "TODO.md",
     "Studies/Lueck and Wilson (2010).md",
     "Sociocultural/Origins and effects of culture/Acculturation.md",
@@ -137,8 +139,6 @@
     "Biological/Hormones and Pheromones/Hormones.md",
     "Studies/Caspi et al (2003).md",
     "Studies/Berry (1967).md",
-    "Studies/Antonova (2011).md",
-    "Studies/Abrams et al (1990).md",
-    "Sociocultural/Individual and the group/Social cognitive theory.md"
+    "Studies/Antonova (2011).md"
   ]
 }
