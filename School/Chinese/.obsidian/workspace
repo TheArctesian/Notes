@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "60397a2bd8f55b31",
+        "id": "b6e3c79ec7b414b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "修辭學發/反復.md",
+            "file": "親愛的安德烈/21.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f6fe7426525bcc38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "產業.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b51323ddc5cdd4f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "疑懼.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修辭學發/反復.md",
+                "file": "親愛的安德烈/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修辭學發/反復.md",
+                "file": "親愛的安德烈/21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修辭學發/反復.md"
+                "file": "親愛的安德烈/21.md"
               }
             }
           }
@@ -128,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60397a2bd8f55b31",
+  "active": "b6e3c79ec7b414b3",
   "lastOpenFiles": [
-    "修辭學發/反問.md",
-    "修辭學發/借代.md",
-    "修辭學發/襯托.md",
-    "修辭學發.md",
-    "修辭學發/層遞.md",
-    "修辭學發/呼告.md",
-    "修辭學發/頂真.md",
-    "修辭學發/雙關.md",
-    "修辭學發/對比.md",
-    "修辭學發/反語.md"
+    "產業.md",
+    "親愛的安德烈/21.md",
+    "疑懼.md",
+    "詞語/跨國企業.md",
+    "詞語/壟斷.md",
+    "詞語/瞅.md",
+    "詞語/喧囂.md",
+    "修辭學發/疊字.md",
+    "詞語/甜滋.md",
+    "詞語/匆忙.md"
   ]
 }
