@@ -1,10 +1,12 @@
 For y axis:
 
 The velocity at any given point will be
-
-v<sub>y</sub> = -gt + u sin &theta;
+$$
+v_y=-gt+u\sin\theta
+$$
 
 Position for y will be
+
 
 y = -<sup>1</sup>&frasl;<sub>2</sub>gt<sup>2</sup> + (u sin &theta;)t
 
