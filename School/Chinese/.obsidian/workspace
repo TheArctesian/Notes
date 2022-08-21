@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e3c79ec7b414b3",
+        "id": "8d06933f872fadc6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "親愛的安德烈/21.md",
+            "file": "修辭學發/修辭手法.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f6fe7426525bcc38",
+        "id": "e5a9288bc2fc26e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "產業.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b51323ddc5cdd4f1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "疑懼.md",
+            "file": "修辭學發/修辭手法.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "9c1e82428b72596d",
@@ -101,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "親愛的安德烈/21.md",
+                "file": "修辭學發/修辭手法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "親愛的安德烈/21.md",
+                "file": "修辭學發/修辭手法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "親愛的安德烈/21.md"
+                "file": "修辭學發/修辭手法.md"
               }
             }
           }
@@ -152,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6e3c79ec7b414b3",
+  "active": "e5a9288bc2fc26e4",
   "lastOpenFiles": [
-    "產業.md",
+    "修辭學發/視覺 👀.md",
+    "修辭學發/嗅覺 👃.md",
+    "修辭學發/修辭手法.md",
+    "修辭學發/味覺 👅.md",
+    "修辭學發/比喻.md",
+    "修辭學發/設問.md",
+    "修辭學發/反問.md",
+    "詞語/雕鑿.md",
     "親愛的安德烈/21.md",
-    "疑懼.md",
-    "詞語/跨國企業.md",
-    "詞語/壟斷.md",
-    "詞語/瞅.md",
-    "詞語/喧囂.md",
-    "修辭學發/疊字.md",
-    "詞語/甜滋.md",
-    "詞語/匆忙.md"
+    "親愛的安德烈/20.md"
   ]
 }
