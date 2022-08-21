@@ -7,7 +7,7 @@ Period(T)= Time it takes to make one revolution
 $$
 v=\frac{2\pi r}{T}
 $$
-If it takes t time to sweep out the angle thera then the rate of chang in angle would be 
+If it takes t time to sweep out the angle thea then the rate of change in angle would be 
 
 $$
 w = \frac{\Delta\theta}{\Delta t} \; in \;\frac{rad}{s} \; or \; rad \times s^{-1}

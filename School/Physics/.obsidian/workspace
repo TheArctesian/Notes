@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0901099ba7d1b27",
+        "id": "2582544f65b5e4f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "(5) Electricity and Magnetism/feilds.md",
+            "file": "Formula Book.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "4db36f53db581ddb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "(12) Quantum and Nuclear Physics/Topic 12 Formula.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "66ee805730c75d6d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 920.5
   },
   "right": {
     "id": "b18bc194192b6289",
@@ -77,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(5) Electricity and Magnetism/feilds.md",
+                "file": "Formula Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(5) Electricity and Magnetism/feilds.md",
+                "file": "Formula Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +137,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(5) Electricity and Magnetism/feilds.md"
+                "file": "Formula Book.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e0901099ba7d1b27",
+  "active": "2582544f65b5e4f2",
   "lastOpenFiles": [
-    "(6) Circular Motion and Gravitation/Circular Motion.md",
-    "(10) Fields/Fields.md",
-    "(2) Mechanics/Projectile Motion.md",
-    "(2) Mechanics/Newtons Laws.md",
-    "(2) Mechanics/Motion Graphs.md",
-    "(2) Mechanics/Mechanics.md",
-    "(10) Fields/The Gravitational Field.md",
-    "(5) Electricity and Magnetism/feilds.md",
-    "(10) Fields/Common Field Patterns.md",
-    "Assets/Pasted image 20220820135004.png"
+    "(1) Measurments and Uncertainties/Topic 1 Formula.md",
+    "Formula Book.md",
+    "(12) Quantum and Nuclear Physics/Topic 12 Formula.md",
+    "(12) Quantum and Nuclear Physics/12.1 The interaction of matter with radiation.md",
+    "(12) Quantum and Nuclear Physics/12.2 Nuclear Physics.md",
+    "(11) Electromagnetic Induction/Topic 11 Formula.md",
+    "(11) Electromagnetic Induction/11.3 Capacitance.md",
+    "(11) Electromagnetic Induction/11.2 Power Generation and Transmission.md",
+    "(11) Electromagnetic Induction/11.1 Electromagnetic Induction.md",
+    "(10) Fields/Topic 10 Formula.md"
   ]
 }
