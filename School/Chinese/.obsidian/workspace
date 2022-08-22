@@ -14,6 +14,30 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "da2c45b404a21c0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "親愛的安德烈/(20) 在一個沒有咖啡館的城市裏.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ce98dcb9da9c0b2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "逐漸.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "親愛的安德烈/Temp.md",
+                "file": "逐漸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "親愛的安德烈/Temp.md",
+                "file": "逐漸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "親愛的安德烈/Temp.md"
+                "file": "逐漸.md"
               }
             }
           }
@@ -128,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5a9288bc2fc26e4",
+  "active": "ce98dcb9da9c0b2a",
   "lastOpenFiles": [
-    "親愛的安德烈/會考的信.md",
-    "親愛的安德烈/Intro.md",
+    "親愛的安德烈/(20) 在一個沒有咖啡館的城市裏.md",
     "親愛的安德烈/Temp.md",
-    "親愛的安德烈/21.md",
-    "詞語/微妙.md",
-    "詞語/散發.md",
-    "詞語/接觸.md",
-    "詞語/壟斷.md",
-    "詞語/匆忙.md",
-    "詞語/甜滋滋.md"
+    "親愛的安德烈/Intro.md",
+    "逐漸.md",
+    "你爭我論.md",
+    "各持己見.md",
+    "心靈.md",
+    "冷酷.md",
+    "生活點滴.md",
+    "聯繫.md"
   ]
 }
