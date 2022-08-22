@@ -7,8 +7,12 @@
         "id": "e5a9288bc2fc26e4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "親愛的安德烈/會考的信.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "親愛的安德烈/會考的信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "親愛的安德烈/會考的信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "親愛的安德烈/會考的信.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5a9288bc2fc26e4",
+  "active": "04c40da65aa6d809",
   "lastOpenFiles": [
-    "親愛的安德烈/(21) 文化因為逗留.md",
-    "深層活動.md",
-    "逗留.md",
-    "親愛的安德烈/(20) 在一個沒有咖啡館的城市裏.md",
+    "親愛的安德烈/(25) 裝馬鈴薯的麻布袋.md",
+    "親愛的安德烈/會考的信.md",
+    "親愛的安德烈/(26) 孩子，你很那瓶奶.md",
     "親愛的安德烈/Intro.md",
-    "競爭.md",
-    "優勢.md",
-    "乾脆.md",
-    "情趣.md",
-    "親愛的安德烈/Temp.md"
+    "親愛的安德烈/(22) 誰說香港每位化.md",
+    "詞語/逗留.md",
+    "詞語/逐漸.md",
+    "詞語/輕易.md",
+    "詞語/競爭.md",
+    "詞語/生活點滴.md"
   ]
 }
