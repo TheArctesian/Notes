@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "083bd9b758bae549",
+        "id": "f4f865208f5fd77d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Calander/2022-09-19.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calander/2022-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calander/2022-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calander/2022-09-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,8 +128,9 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "083bd9b758bae549",
+  "active": "f4f865208f5fd77d",
   "lastOpenFiles": [
+    "Calander/2022-09-19.md",
     "Todo.md",
     "Tests.md",
     "Calander/2022-09-09.md",

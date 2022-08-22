@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "72836977b37bb029",
@@ -130,15 +131,15 @@
   },
   "active": "c8f0ef547bfef0b4",
   "lastOpenFiles": [
+    "Core/Biological Approach.md",
+    "Biological/Brain and Behaviour/Neurotransmission.md",
+    "Studies/Rogers & Kesner (2003).md",
+    "Research Methods/Methods/Lab Experiment.md",
+    "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
     "Studies/Wedekind (1995).md",
     "Biological/Hormones and Pheromones/Pheromones.md",
     "TODO.md",
     "Studies/Lueck and Wilson (2010).md",
-    "Sociocultural/Origins and effects of culture/Acculturation.md",
-    "Biological/Genetics/Genes and behaviour.md",
-    "Biological/Hormones and Pheromones/Hormones.md",
-    "Studies/Caspi et al (2003).md",
-    "Studies/Berry (1967).md",
-    "Studies/Antonova (2011).md"
+    "Sociocultural/Origins and effects of culture/Acculturation.md"
   ]
 }
