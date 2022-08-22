@@ -7,12 +7,8 @@
         "id": "e5a9288bc2fc26e4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "修辭手法/襯托.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修辭手法/襯托.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修辭手法/襯托.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,29 +110,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "修辭手法/襯托.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e5a9288bc2fc26e4",
+  "active": "04c40da65aa6d809",
   "lastOpenFiles": [
+    "2022-08-22.md",
+    "Calander/2022-08-22.md",
+    "修辭手法/襯托.md",
     "修辭手法/聽覺 👂.md",
     "修辭手法/設問.md",
     "修辭手法/觸覺 🖐.md",
     "修辭手法/視覺 👀.md",
     "修辭手法/比擬.md",
     "修辭手法/比喻.md",
-    "修辭手法/排比.md",
-    "修辭手法/修辭手法.md",
-    "修辭手法/襯托.md",
-    "修辭手法/疊字.md"
+    "修辭手法/排比.md"
   ]
 }
