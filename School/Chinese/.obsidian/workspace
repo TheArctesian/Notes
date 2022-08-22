@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d06933f872fadc6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "修辭學發/修辭手法.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e5a9288bc2fc26e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "修辭學發/修辭手法.md",
+            "file": "修辭手法/襯托.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修辭學發/修辭手法.md",
+                "file": "修辭手法/襯托.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修辭學發/修辭手法.md",
+                "file": "修辭手法/襯托.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修辭學發/修辭手法.md"
+                "file": "修辭手法/襯托.md"
               }
             }
           }
@@ -142,15 +130,15 @@
   },
   "active": "e5a9288bc2fc26e4",
   "lastOpenFiles": [
-    "修辭學發/視覺 👀.md",
-    "修辭學發/嗅覺 👃.md",
-    "修辭學發/修辭手法.md",
-    "修辭學發/味覺 👅.md",
-    "修辭學發/比喻.md",
-    "修辭學發/設問.md",
-    "修辭學發/反問.md",
-    "詞語/雕鑿.md",
-    "親愛的安德烈/21.md",
-    "親愛的安德烈/20.md"
+    "修辭手法/聽覺 👂.md",
+    "修辭手法/設問.md",
+    "修辭手法/觸覺 🖐.md",
+    "修辭手法/視覺 👀.md",
+    "修辭手法/比擬.md",
+    "修辭手法/比喻.md",
+    "修辭手法/排比.md",
+    "修辭手法/修辭手法.md",
+    "修辭手法/襯托.md",
+    "修辭手法/疊字.md"
   ]
 }
