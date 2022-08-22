@@ -1,0 +1,2 @@
+- [ ] Read Handmaids tale before [[2022-10-01]]
+- [ ] IO 

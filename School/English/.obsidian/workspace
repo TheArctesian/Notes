@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "4cbccc907c1bed01",
+    "type": "split",
+    "children": [
+      {
+        "id": "083bd9b758bae549",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calander/2022-09-19.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "476180681a016e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0545dda904a5d021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb2f1f65e7de1d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2d7caf7e4bceee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38532acd37f8be66",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "337ad687c9dbb023",
+    "type": "split",
+    "children": [
+      {
+        "id": "28596a1977d4f480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695a057da8cc016a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calander/2022-09-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebc2b76dbe01cbdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calander/2022-09-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db148865a40b96d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "439c028f7ef70db7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calander/2022-09-19.md"
+              }
+            }
+          },
+          {
+            "id": "c119269bdf99ffb8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "active": "083bd9b758bae549",
+  "lastOpenFiles": [
+    "Todo.md",
+    "Tests.md",
+    "Calander/2022-09-09.md",
+    "Calander/2022-10-01.md"
+  ]
+}
