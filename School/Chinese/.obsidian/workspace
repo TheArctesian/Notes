@@ -7,8 +7,12 @@
         "id": "e5a9288bc2fc26e4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "親愛的安德烈/Temp.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "親愛的安德烈/Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "親愛的安德烈/Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,27 +116,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "親愛的安德烈/Temp.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "04c40da65aa6d809",
+  "active": "e5a9288bc2fc26e4",
   "lastOpenFiles": [
-    "2022-08-22.md",
-    "Calander/2022-08-22.md",
-    "修辭手法/襯托.md",
-    "修辭手法/聽覺 👂.md",
-    "修辭手法/設問.md",
-    "修辭手法/觸覺 🖐.md",
-    "修辭手法/視覺 👀.md",
-    "修辭手法/比擬.md",
-    "修辭手法/比喻.md",
-    "修辭手法/排比.md"
+    "親愛的安德烈/會考的信.md",
+    "親愛的安德烈/Intro.md",
+    "親愛的安德烈/Temp.md",
+    "親愛的安德烈/21.md",
+    "詞語/微妙.md",
+    "詞語/散發.md",
+    "詞語/接觸.md",
+    "詞語/壟斷.md",
+    "詞語/匆忙.md",
+    "詞語/甜滋滋.md"
   ]
 }
