@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ee1d6b697d08aedb",
+    "id": "e848e44d4ddcb2ee",
     "type": "split",
     "children": [
       {
-        "id": "39fe9caa589540bc",
+        "id": "10a7cd3240c47d5f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f5fcaa43ddc21690",
+    "id": "3bb261eb948f8767",
     "type": "split",
     "children": [
       {
-        "id": "69c5fb1d40302da1",
+        "id": "ad6e50dddeec03d0",
         "type": "tabs",
         "children": [
           {
-            "id": "683245d1368dc063",
+            "id": "ab3c823bcea4c6a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "52a441d9220165be",
+            "id": "4299463b90bf84b4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "21948dd67be734d4",
+            "id": "a698e1bb40173a95",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "2c5a45df51ef0e2d",
+    "id": "a9a2c8ce1b6950fc",
     "type": "split",
     "children": [
       {
-        "id": "156f131620b9824c",
+        "id": "74778936cce99bef",
         "type": "tabs",
         "children": [
           {
-            "id": "77aae5122a42b646",
+            "id": "266b2c640ba776c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "e1f058ea7c6356ab",
+            "id": "38891d45fb86683c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "cba510c0023efd46",
+            "id": "1bf185173be00e47",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,38 +106,20 @@
             }
           },
           {
-            "id": "ddf69097f179e718",
+            "id": "a528c9f402f36bf6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "ba1083e672151515",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "39fe9caa589540bc",
-  "lastOpenFiles": [
-    "English/Calander/2022-09-09.md",
-    "English/Calander/2022-10-01.md",
-    "English/Calander/2022-09-19.md",
-    "English/Calander/2022-08-26.md",
-    "English/Tests.md",
-    "English/Todo.md",
-    "Physics/(10) Fields/Work Done in a gravitational field.md",
-    "Physics/(10) Fields/Common Field Patterns.md",
-    "Chinese/親愛的安德烈/Temp.md"
-  ]
+  "active": "10a7cd3240c47d5f",
+  "lastOpenFiles": []
 }
