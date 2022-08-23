@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+            "file": "Studies/Bartlett (1932).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+=======
+                "file": "Studies/Bartlett (1932).md",
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +98,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+=======
+                "file": "Studies/Bartlett (1932).md",
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md"
+=======
+                "file": "Studies/Bartlett (1932).md"
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
               }
             }
           },
@@ -142,11 +154,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c8f0ef547bfef0b4",
+  "active": "587d433012395b9f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Studies/Rogers & Kesner (2003).md",
     "Biological/Brain and Behaviour/Neurotransmission.md",
     "Core/Biological Approach.md",
@@ -157,5 +169,17 @@
     "TODO.md",
     "Calandar/2022-09-30.md",
     "Calandar/2022-10-26.md"
+=======
+    "Studies/Rosenzweig, Bennet & Diamond (1972).md",
+    "Research Methods/Methods/Lab Experiment.md",
+    "Studies/Brewer & Treyens (1981).md",
+    "Cognitive/Cognitive Processes/Schema Theory.md",
+    "Core/Cognitive Approach.md",
+    "Studies/Abrams et al (1990).md",
+    "TODO.md",
+    "Studies/Draganski (2004).md",
+    "Studies/Bartlett (1932).md",
+    "Core/Biological Approach.md"
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
   ]
 }
