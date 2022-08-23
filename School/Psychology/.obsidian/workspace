@@ -7,8 +7,12 @@
         "id": "c8f0ef547bfef0b4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "72836977b37bb029",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md"
+              }
             }
           },
           {
@@ -121,8 +128,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "53a05482120a26ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -131,15 +147,15 @@
   },
   "active": "c8f0ef547bfef0b4",
   "lastOpenFiles": [
-    "Core/Biological Approach.md",
-    "Biological/Brain and Behaviour/Neurotransmission.md",
     "Studies/Rogers & Kesner (2003).md",
+    "Biological/Brain and Behaviour/Neurotransmission.md",
+    "Core/Biological Approach.md",
     "Research Methods/Methods/Lab Experiment.md",
-    "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
-    "Studies/Wedekind (1995).md",
-    "Biological/Hormones and Pheromones/Pheromones.md",
+    "Studies/Tversky and Kahneman (1974).md",
+    "Cognitive/Cognitive Processes/Thinking and decision-making.md",
+    "Core/Cognitive Approach.md",
     "TODO.md",
-    "Studies/Lueck and Wilson (2010).md",
-    "Sociocultural/Origins and effects of culture/Acculturation.md"
+    "Calandar/2022-09-30.md",
+    "Calandar/2022-10-26.md"
   ]
 }
