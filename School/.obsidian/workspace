@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "7e10d1d0f97b494e",
+        "id": "39fe9caa589540bc",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -112,19 +112,32 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "ba1083e672151515",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7e10d1d0f97b494e",
+  "active": "39fe9caa589540bc",
   "lastOpenFiles": [
+    "English/Calander/2022-09-09.md",
+    "English/Calander/2022-10-01.md",
+    "English/Calander/2022-09-19.md",
+    "English/Calander/2022-08-26.md",
+    "English/Tests.md",
+    "English/Todo.md",
     "Physics/(10) Fields/Work Done in a gravitational field.md",
     "Physics/(10) Fields/Common Field Patterns.md",
-    "English/Calander/2022-10-01.md",
     "Chinese/親愛的安德烈/Temp.md"
   ]
 }
