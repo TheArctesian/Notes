@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "ee1d6b697d08aedb",
+    "id": "827a051256b6af49",
     "type": "split",
     "children": [
       {
-        "id": "7e10d1d0f97b494e",
+        "id": "b711731bc718f4e6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Formula Book.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f5fcaa43ddc21690",
+    "id": "c0af07f9725def8a",
     "type": "split",
     "children": [
       {
-        "id": "69c5fb1d40302da1",
+        "id": "f11694a73293b6df",
         "type": "tabs",
         "children": [
           {
-            "id": "683245d1368dc063",
+            "id": "f2f74c30cbb133dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "52a441d9220165be",
+            "id": "35fd03fce7a73146",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "21948dd67be734d4",
+            "id": "1d924ce4dc4789f6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,19 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "2c5a45df51ef0e2d",
+    "id": "3c055fcdd48d9693",
     "type": "split",
     "children": [
       {
-        "id": "156f131620b9824c",
+        "id": "b1ca1045f3e3fc70",
         "type": "tabs",
         "children": [
           {
-            "id": "77aae5122a42b646",
+            "id": "a2f5d1fdfd2adae7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formula Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +89,19 @@
             }
           },
           {
-            "id": "e1f058ea7c6356ab",
+            "id": "f15397c84ff1351d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formula Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cba510c0023efd46",
+            "id": "7b3a5044bd82c727",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,11 +112,13 @@
             }
           },
           {
-            "id": "ddf69097f179e718",
+            "id": "28f5803e08c6f0a4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formula Book.md"
+              }
             }
           }
         ]
@@ -120,11 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e10d1d0f97b494e",
+  "active": "b711731bc718f4e6",
   "lastOpenFiles": [
-    "Physics/(10) Fields/Work Done in a gravitational field.md",
-    "Physics/(10) Fields/Common Field Patterns.md",
-    "English/Calander/2022-10-01.md",
-    "Chinese/親愛的安德烈/Temp.md"
+    "(13) Integration/13.md",
+    "(12) Differential Calculus/12.md",
+    "(11) Trigonometric Functions/11.md",
+    "(10) Exponential and Logarithmic Functions/10.md",
+    "(9) Power Functions/9.md",
+    "(8) Spearmans's hyprothesis, testing for independence/8.md",
+    "(7) Probabillity, distributions/7.md",
+    "(6) Linear Correlation of Bivariate Data/6.md",
+    "(5) Linear Functions/5.md",
+    "(4) Coordinate geometry, lines, Voronoi/4.md"
   ]
 }

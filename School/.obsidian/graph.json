@@ -1,14 +1,14 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:Math/",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -19,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     },
     {
@@ -67,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.285485808333781,
+  "scale": 0.21567683427730927,
   "close": false
 }
