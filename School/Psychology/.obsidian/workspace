@@ -77,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+=======
                 "file": "Studies/Bartlett (1932).md",
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +98,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
+=======
                 "file": "Studies/Bartlett (1932).md",
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md"
+=======
                 "file": "Studies/Bartlett (1932).md"
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
               }
             }
           },
@@ -128,8 +140,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "53a05482120a26ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -137,6 +158,18 @@
   },
   "active": "587d433012395b9f",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Studies/Rogers & Kesner (2003).md",
+    "Biological/Brain and Behaviour/Neurotransmission.md",
+    "Core/Biological Approach.md",
+    "Research Methods/Methods/Lab Experiment.md",
+    "Studies/Tversky and Kahneman (1974).md",
+    "Cognitive/Cognitive Processes/Thinking and decision-making.md",
+    "Core/Cognitive Approach.md",
+    "TODO.md",
+    "Calandar/2022-09-30.md",
+    "Calandar/2022-10-26.md"
+=======
     "Studies/Rosenzweig, Bennet & Diamond (1972).md",
     "Research Methods/Methods/Lab Experiment.md",
     "Studies/Brewer & Treyens (1981).md",
@@ -147,5 +180,6 @@
     "Studies/Draganski (2004).md",
     "Studies/Bartlett (1932).md",
     "Core/Biological Approach.md"
+>>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
   ]
 }
