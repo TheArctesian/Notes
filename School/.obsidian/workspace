@@ -1,38 +1,11 @@
 {
   "main": {
-    "id": "23c3d265c69415ab",
+    "id": "ee1d6b697d08aedb",
     "type": "split",
     "children": [
       {
-        "id": "2582544f65b5e4f2",
+        "id": "7e10d1d0f97b494e",
         "type": "leaf",
-        "dimension": 47.229551451187334,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "(10) Fields/The Gravitational Field.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4db36f53db581ddb",
-        "type": "leaf",
-        "dimension": 26.385224274406337,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "(6) Circular Motion and Gravitation/6.2 Newton's law of gravitation.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "66ee805730c75d6d",
-        "type": "leaf",
-        "dimension": 26.385224274406337,
         "state": {
           "type": "graph",
           "state": {}
@@ -42,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aaf1f64e0e92b293",
+    "id": "f5fcaa43ddc21690",
     "type": "split",
     "children": [
       {
-        "id": "a5bcbc3ae0caa90d",
+        "id": "69c5fb1d40302da1",
         "type": "tabs",
         "children": [
           {
-            "id": "d2376c4af6ccdcaf",
+            "id": "683245d1368dc063",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +31,7 @@
             }
           },
           {
-            "id": "edf35c2c47683909",
+            "id": "52a441d9220165be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +46,7 @@
             }
           },
           {
-            "id": "ce4491cbe2438672",
+            "id": "21948dd67be734d4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -84,23 +57,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "b18bc194192b6289",
+    "id": "2c5a45df51ef0e2d",
     "type": "split",
     "children": [
       {
-        "id": "e5b87c30285512df",
+        "id": "156f131620b9824c",
         "type": "tabs",
         "children": [
           {
-            "id": "9353d6e98b9f7fa2",
+            "id": "77aae5122a42b646",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(10) Fields/The Gravitational Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +85,18 @@
             }
           },
           {
-            "id": "67669ae22c73c913",
+            "id": "e1f058ea7c6356ab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(10) Fields/The Gravitational Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7cf23c31be16d190",
+            "id": "cba510c0023efd46",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,33 +107,23 @@
             }
           },
           {
-            "id": "14f077ab01579861",
+            "id": "ddf69097f179e718",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(10) Fields/The Gravitational Field.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2582544f65b5e4f2",
+  "active": "7e10d1d0f97b494e",
   "lastOpenFiles": [
-    "(6) Circular Motion and Gravitation/6.2 Newton's law of gravitation.md",
-    "(10) Fields/The Gravitational Field.md",
-    "(10) Fields/Fields.md",
-    "(10) Fields/10.1 Fields at work.md",
-    "(10) Fields/Work Done in a gravitational field.md",
-    "(6) Circular Motion and Gravitation/Topic 6 Formula.md",
-    "Formula Book.md",
-    "(2) Mechanics/Topic 2 Formula.md",
-    "(2) Mechanics/2.1 Motion.md",
-    "(12) Quantum and Nuclear Physics/Topic 12 Formula.md"
+    "English/Calander/2022-10-01.md",
+    "Chinese/親愛的安德烈/Temp.md"
   ]
 }

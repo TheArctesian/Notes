@@ -18,3 +18,4 @@ For fields we remove the additional M and imagine there is a field surrounding M
 
 $$ \vec{g} = \frac{force \; on \; mass\; at\; point}{mass \; at\;point} = \frac{G\frac{Mm}{r^2}}{m} = G\frac{M}{r^2}$$
 ![[Pasted image 20220820135004.png]]
+
