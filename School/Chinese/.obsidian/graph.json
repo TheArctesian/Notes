@@ -5,15 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:修辭學發",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
     {
       "query": "path:詞語",
       "color": {
@@ -27,6 +20,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:修辭手法",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.0429108492664407,
-  "close": false
+  "scale": 1.479915711225152,
+  "close": true
 }
