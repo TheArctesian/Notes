@@ -1,2 +1,5 @@
 - [ ] Read Handmaids tale before [[2022-10-01]]
 - [ ] IO 
+- letter board 
+- good reads
+- [seasaw](https://app.seesaw.me/#/student/feed/class.d03ee920-d8e4-4f93-9dee-488e07c7160e/person.31ab8fa2-87ae-4f6b-9574-744488221283?reloadedref=https:%2F%2Fapp.seesaw.me%2Fc%2Fconv.welcome-to-messages)

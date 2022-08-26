@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "54becb076e4ff938",
+        "id": "c4e44aea726e6fbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "親愛的安德烈/Temp.md",
+            "file": "親愛的安德烈/(25) 裝馬鈴薯的麻布袋.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3fe5bbb2f4f8a8e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "詞語/逐漸.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "親愛的安德烈/Temp.md",
+                "file": "詞語/逐漸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "親愛的安德烈/Temp.md",
+                "file": "詞語/逐漸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "親愛的安德烈/Temp.md"
+                "file": "詞語/逐漸.md"
               }
             }
           },
@@ -136,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54becb076e4ff938",
+  "active": "3fe5bbb2f4f8a8e7",
   "lastOpenFiles": [
     "親愛的安德烈/Intro.md",
+    "背景.md",
+    "親愛的安德烈/(25) 裝馬鈴薯的麻布袋.md",
     "親愛的安德烈/Temp.md",
-    "親愛的安德烈/會考的信.md",
-    "親愛的安德烈/(26) 孩子，你很那瓶奶.md",
-    "全球化.md",
-    "社交媒體.md",
-    "親愛的安德烈/(20) 在一個沒有咖啡館的城市裏.md",
-    "親愛的安德烈/(21) 文化因為逗留.md",
+    "修辭手法/借代.md",
     "親愛的安德烈/(22) 誰說香港每位化.md",
-    "靈感.md"
+    "親愛的安德烈/(21) 文化因為逗留.md",
+    "修辭手法/觸覺 🖐.md",
+    "修辭手法/設問.md",
+    "修辭手法/視覺 👀.md"
   ]
 }

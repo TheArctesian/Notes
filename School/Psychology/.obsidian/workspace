@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "d47f6d778a16620a",
+    "id": "ea2ecf2201a52f90",
     "type": "split",
     "children": [
       {
-        "id": "c8f0ef547bfef0b4",
+        "id": "a41a0200cf6f8424",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Studies/Bartlett (1932).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "48eb9de1cefe3826",
+    "id": "87df73aea80190cd",
     "type": "split",
     "children": [
       {
-        "id": "c4910c9882de6c36",
+        "id": "c67b74ec19e6b06d",
         "type": "tabs",
         "children": [
           {
-            "id": "f370a2f0c03132c7",
+            "id": "cdea49417ca064bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "32ef9b7156d9718d",
+            "id": "5ee47d81c33bec03",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "corr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "5d1c3385cc1040bc",
+            "id": "468511f2349113c4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,27 +57,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "right": {
-    "id": "72836977b37bb029",
+    "id": "3cb708360fe2518f",
     "type": "split",
     "children": [
       {
-        "id": "fb016f76572fa41e",
+        "id": "2df2bf920be69ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "587d433012395b9f",
+            "id": "d868b34bc9efb7cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
-=======
-                "file": "Studies/Bartlett (1932).md",
->>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,23 +84,18 @@
             }
           },
           {
-            "id": "ff258a8b1c1a26c4",
+            "id": "299e8b773b469733",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md",
-=======
-                "file": "Studies/Bartlett (1932).md",
->>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bdc4cbda9f2021c4",
+            "id": "4dcc6ec26c44fa8d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +106,15 @@
             }
           },
           {
-            "id": "65d7f38f5ad35c71",
+            "id": "2fbb7504a22cf1b7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Biological/Brain and Behaviour/Neurotransmitter/acetylcholine.md"
-=======
-                "file": "Studies/Bartlett (1932).md"
->>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
-              }
+              "state": {}
             }
           },
           {
-            "id": "7c2dac8692ae6c20",
+            "id": "40c688ff241741e4",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -142,44 +122,29 @@
             }
           },
           {
-            "id": "53a05482120a26ea",
+            "id": "34c06c6c4ffcec12",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "587d433012395b9f",
+  "active": "cdea49417ca064bb",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Studies/Rogers & Kesner (2003).md",
-    "Biological/Brain and Behaviour/Neurotransmission.md",
-    "Core/Biological Approach.md",
-    "Research Methods/Methods/Lab Experiment.md",
-    "Studies/Tversky and Kahneman (1974).md",
-    "Cognitive/Cognitive Processes/Thinking and decision-making.md",
-    "Core/Cognitive Approach.md",
-    "TODO.md",
-    "Calandar/2022-09-30.md",
-    "Calandar/2022-10-26.md"
-=======
-    "Studies/Rosenzweig, Bennet & Diamond (1972).md",
-    "Research Methods/Methods/Lab Experiment.md",
-    "Studies/Brewer & Treyens (1981).md",
-    "Cognitive/Cognitive Processes/Schema Theory.md",
-    "Core/Cognitive Approach.md",
-    "Studies/Abrams et al (1990).md",
-    "TODO.md",
-    "Studies/Draganski (2004).md",
-    "Studies/Bartlett (1932).md",
-    "Core/Biological Approach.md"
->>>>>>> ac41b6c405bebfe594a471b7449e8d409c611235
+    "Research Methods/Evaluating Experiments/Participants Variability.md",
+    "Research Methods/Evaluating Experiments/Artificiality.md",
+    "Research Methods/Ethics/Avoidance of deception.md",
+    "Research Methods/Evaluating Research.md",
+    "Research Methods/Methods/Longitudinal Study.md",
+    "Studies/HM: Milner (1966).md",
+    "Cognitive/Cognitive Processes/Memory Models.md",
+    "Core/Cognitive Approach.md"
   ]
 }
