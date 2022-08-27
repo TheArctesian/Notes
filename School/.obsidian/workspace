@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/(7) Atomic, Nuclear and Particle Physics/Topic 7 Formula.md",
+            "file": "Global TODO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/(7) Atomic, Nuclear and Particle Physics/Topic 7 Formula.md",
+                "file": "Global TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/(7) Atomic, Nuclear and Particle Physics/Topic 7 Formula.md",
+                "file": "Global TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/(7) Atomic, Nuclear and Particle Physics/Topic 7 Formula.md"
+                "file": "Global TODO.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "39fe9caa589540bc",
   "lastOpenFiles": [
+    "Physics/(7) Atomic, Nuclear and Particle Physics/Topic 7 Formula.md",
     "Physics/(7) Atomic, Nuclear and Particle Physics/7.3 The structure of matter.md",
     "Physics/(7) Atomic, Nuclear and Particle Physics/7.2 Nuclear reactions.md",
     "Physics/(7) Atomic, Nuclear and Particle Physics/7.1 Discrete energy and radioactivity.md",
@@ -146,7 +147,6 @@
     "Physics/(1) Measurments and Uncertainties/Measurements/SI Units.md",
     "Physics/(1) Measurments and Uncertainties/Measurements/Other Units.md",
     "Physics/(1) Measurments and Uncertainties/Uncertainty/Absolute uncertainty.md",
-    "Physics/(1) Measurments and Uncertainties/Uncertainty/Accuracy vs Precision.md",
-    "Physics/(1) Measurments and Uncertainties/Measurments and Uncertainties.md"
+    "Physics/(1) Measurments and Uncertainties/Uncertainty/Accuracy vs Precision.md"
   ]
 }

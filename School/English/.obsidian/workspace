@@ -7,8 +7,24 @@
         "id": "487abfcb59e5030d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IO/Manari.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cd10c6df1c704105",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IO/Manari.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IO/Manari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IO/Manari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IO/Manari.md"
+              }
             }
           },
           {
@@ -128,17 +148,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "487abfcb59e5030d",
+  "active": "cd10c6df1c704105",
   "lastOpenFiles": [
+    "IO/Intro.md",
+    "IO/Unaccustomed Earth.md",
+    "IO/Outline.md",
+    "IO/Manari.md",
     "Calander/2022-10-01.md",
     "Calander/2022-09-09.md",
     "Calander/2022-08-26.md",
     "Calander/2022-09-19.md",
     "Tests.md",
-    "Todo.md",
-    "IO/Unaccustomed Earth.md",
-    "IO/Outline.md",
-    "IO/Manari.md",
-    "IO/Intro.md"
+    "Todo.md"
   ]
 }
