@@ -1,0 +1,1 @@
+The complete range or scope of something "the whole gamut of human emotion

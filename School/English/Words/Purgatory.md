@@ -1,0 +1,1 @@
+(in Catholic doctrine) a place or state of suffering inhabited by the souls of sinners who are [[Expiating]] their sins before going to heaven.

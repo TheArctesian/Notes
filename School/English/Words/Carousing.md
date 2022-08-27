@@ -1,0 +1,1 @@
+he activity of drinking alcohol and enjoying oneself with others in a noisy, lively way.

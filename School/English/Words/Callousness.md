@@ -1,0 +1,1 @@
+Emotionally hardened, unfeeling

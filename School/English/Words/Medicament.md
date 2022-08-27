@@ -1,0 +1,1 @@
+1.  a substance used for medical treatment.

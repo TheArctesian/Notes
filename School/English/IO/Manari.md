@@ -17,9 +17,9 @@ Setting: 1980s america
 - Paul (Farm hand)
 Scenes 
 - Church 
-- Gradma and Jacob
+- Grandma and Jacob
 - Ending
-"They come to america and they froget everything"
+"They come to america and they forget everything"
 - 0:00 - 6:00 (Arrival)
 	- They arrive in a new place and Monica is disappointing at the new place in Arkansan, it is an ethereal landscape
 	- Kids speaking English in america accent in response to parents Korean

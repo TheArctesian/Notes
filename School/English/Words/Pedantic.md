@@ -1,0 +1,1 @@
+excessively concerned with minor details or rules; over-[[Scrupulous]].

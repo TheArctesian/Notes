@@ -1,0 +1,1 @@
+make (something bad or unsatisfactory) better.

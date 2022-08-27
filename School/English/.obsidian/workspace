@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "487abfcb59e5030d",
+        "id": "011b2ef5cc649a5b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IO/Manari.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cd10c6df1c704105",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IO/Manari.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO/Manari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IO/Manari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IO/Manari.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
-  "active": "cd10c6df1c704105",
+  "active": "7bb2f1f65e7de1d9",
   "lastOpenFiles": [
-    "IO/Intro.md",
-    "IO/Unaccustomed Earth.md",
-    "IO/Outline.md",
-    "IO/Manari.md",
-    "Calander/2022-10-01.md",
-    "Calander/2022-09-09.md",
-    "Calander/2022-08-26.md",
-    "Calander/2022-09-19.md",
-    "Tests.md",
-    "Todo.md"
+    "Words/Promulgate.md",
+    "Words/Ignominy.md",
+    "Words/Pecuniary.md",
+    "Words/Posthumous.md",
+    "Words/Venerable.md",
+    "Words/Avarice.md",
+    "Words/Concomitant.md",
+    "Words/Extirpate.md",
+    "Words/Bohemia.md",
+    "Words/Remuneration.md"
   ]
 }
