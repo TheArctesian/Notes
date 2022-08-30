@@ -4,25 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e554b5c8f8b2e0",
+        "id": "66ee805730c75d6d",
         "type": "leaf",
-        "dimension": 47.229551451187334,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "(2) Mechanics/2.1 Motion.md",
+            "file": "(1) Measurments and Uncertainties/Constants/Coulomb Constant.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "66ee805730c75d6d",
+        "id": "3f1268fc93f2837b",
         "type": "leaf",
-        "dimension": 52.77044854881267,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "(10) Fields/Work Done in a gravitational field.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mgh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(1) Measurments and Uncertainties/Constants/Coulomb Constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(1) Measurments and Uncertainties/Constants/Coulomb Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(1) Measurments and Uncertainties/Constants/Coulomb Constant.md"
+              }
             }
           }
         ],
@@ -137,15 +143,15 @@
   },
   "active": "66ee805730c75d6d",
   "lastOpenFiles": [
-    "(2) Mechanics/2.1 Motion.md",
-    "(2) Mechanics/Topic 2 Formula.md",
-    "Formula Book.md",
+    "(1) Measurments and Uncertainties/Constants/Constants.md",
+    "(1) Measurments and Uncertainties/Constants/Boltzmann Constant.md",
+    "(1) Measurments and Uncertainties/Measurments and Uncertainties.md",
+    "(10) Fields/Gravitational Field Energy.md",
     "(10) Fields/Work Done in a gravitational field.md",
-    "(10) Fields/10.1 Fields at work.md",
+    "(10) Fields/Orbits and Escape Velocity.md",
     "(6) Circular Motion and Gravitation/6.1 Circular motion.md",
     "(6) Circular Motion and Gravitation/6.2 Newton's law of gravitation.md",
-    "(10) Fields/The Gravitational Field.md",
-    "(10) Fields/Fields.md",
-    "(6) Circular Motion and Gravitation/Topic 6 Formula.md"
+    "(6) Circular Motion and Gravitation/Topic 6 Formula.md",
+    "(6) Circular Motion and Gravitation/Circular Motion.md"
   ]
 }

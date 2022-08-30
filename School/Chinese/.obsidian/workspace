@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "親愛的安德烈/(25) 裝馬鈴薯的麻布袋.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3fe5bbb2f4f8a8e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "詞語/逐漸.md",
+            "file": "詞語/課文一.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "詞語/逐漸.md",
+                "file": "詞語/課文一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "詞語/逐漸.md",
+                "file": "詞語/課文一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "詞語/逐漸.md"
+                "file": "詞語/課文一.md"
               }
             }
           },
@@ -148,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fe5bbb2f4f8a8e7",
+  "active": "c4e44aea726e6fbb",
   "lastOpenFiles": [
-    "親愛的安德烈/Intro.md",
-    "背景.md",
-    "親愛的安德烈/(25) 裝馬鈴薯的麻布袋.md",
-    "親愛的安德烈/Temp.md",
-    "修辭手法/借代.md",
-    "親愛的安德烈/(22) 誰說香港每位化.md",
-    "親愛的安德烈/(21) 文化因為逗留.md",
-    "修辭手法/觸覺 🖐.md",
-    "修辭手法/設問.md",
-    "修辭手法/視覺 👀.md"
+    "保健.md",
+    "詞語/課文一.md",
+    "弱勢.md",
+    "細緻.md",
+    "耐心.md",
+    "脾氣.md",
+    "褲腿.md",
+    "詞語/殘疾人.md",
+    "詞語/淋濕.md",
+    "詞語/遮雨.md"
   ]
 }
