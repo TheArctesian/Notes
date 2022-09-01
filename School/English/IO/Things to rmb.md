@@ -1,0 +1,11 @@
+- Don't stop apologize pause restart, just go forward 
+- No: Like, um, uh, so yeah, kind of, pretty much, kid, I believe
+	- Child not kid
+- Introduce authors with their titles 
+- Don't have a super long introduction 
+- Do not be redundant
+- Deconstruct ==> Picking apart evidence
+- Get facts right
+- Signpost transition between ideas
+- Don't summarize story in their introduction [[Blooms Taxonomy]]
+- Variety of authors that have authorial choices (directors, writers, actors, wardrobe, designers, set-dressers, etc)

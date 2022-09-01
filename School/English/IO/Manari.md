@@ -1,11 +1,12 @@
 ## Relevant scenes 
 
+
+
 Minari grows in the forest where Soon-Ja planted it. Minari is also the plant that survives in the end, while all other farm products are burnt to ashes.
 
 Setting: 1980s america
 ## Characters
 - David (Son)
-
 - Monica (Mom)
 	- Christian
 		- Wears a cross around her neck
