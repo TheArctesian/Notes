@@ -6,14 +6,45 @@
       {
         "id": "c4e44aea726e6fbb",
         "type": "leaf",
+        "dimension": 77.72087067861716,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "詞語/課文一.md",
-            "mode": "source",
-            "source": false
+            "file": "單元四/課文二.pdf"
           }
         }
+      },
+      {
+        "id": "53676bf8e8c9450b",
+        "type": "split",
+        "dimension": 22.279129321382843,
+        "children": [
+          {
+            "id": "c001b504ccbe1b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "單元四/課文二.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a6aa03d20544d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "渲染.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "詞語/課文一.md",
+                "file": "渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "詞語/課文一.md",
+                "file": "渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "詞語/課文一.md"
+                "file": "渲染.md"
               }
             }
           },
@@ -136,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4e44aea726e6fbb",
+  "active": "6a6aa03d20544d16",
   "lastOpenFiles": [
-    "保健.md",
-    "詞語/課文一.md",
-    "弱勢.md",
-    "細緻.md",
-    "耐心.md",
-    "脾氣.md",
-    "褲腿.md",
-    "詞語/殘疾人.md",
-    "詞語/淋濕.md",
-    "詞語/遮雨.md"
+    "單元四/課文二.md",
+    "親愛的安德烈/(21) 文化因為逗留.md",
+    "逃避現實.md",
+    "懲罰.md",
+    "染上了毒癮.md",
+    "詞語/氛圍.md",
+    "渲染.md",
+    "單元四/課文二.pdf",
+    "穩定.md",
+    "詞語/吸毒.md"
   ]
 }
