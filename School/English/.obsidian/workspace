@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IO/Things to rmb.md",
+            "file": "Devices/devices.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO/Things to rmb.md",
+                "file": "Devices/devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IO/Things to rmb.md",
+                "file": "Devices/devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO/Things to rmb.md"
+                "file": "Devices/devices.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "011b2ef5cc649a5b",
   "lastOpenFiles": [
-    "Blooms Taxonomy.md",
     "IO/Things to rmb.md",
+    "Blooms Taxonomy.md",
     "IO/Intro.md",
     "IO/Manari.md",
     "IO/Unaccustomed Earth.md",
