@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Devices/devices.md",
+            "file": "Paper 1/Concepts/Transformation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devices/devices.md",
+                "file": "Paper 1/Concepts/Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devices/devices.md",
+                "file": "Paper 1/Concepts/Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devices/devices.md"
+                "file": "Paper 1/Concepts/Transformation.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 305.5,
     "collapsed": true
   },
-  "active": "011b2ef5cc649a5b",
+  "active": "7bb2f1f65e7de1d9",
   "lastOpenFiles": [
+    "Paper 1/Concepts/Communication.md",
+    "Paper 1/Concepts/Perspectives.md",
+    "Paper 1/Concepts/Creativity.md",
+    "Paper 1/Concepts/Culture.md",
+    "Devices/devices.md",
     "IO/Things to rmb.md",
     "Blooms Taxonomy.md",
     "IO/Intro.md",
     "IO/Manari.md",
-    "IO/Unaccustomed Earth.md",
-    "Words/Promulgate.md",
-    "Words/Ignominy.md",
-    "Words/Pecuniary.md",
-    "Words/Posthumous.md",
-    "Words/Venerable.md"
+    "IO/Unaccustomed Earth.md"
   ]
 }
