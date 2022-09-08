@@ -1,0 +1,1 @@
+A shot that features two characters and is used to establish or develop their relationship.

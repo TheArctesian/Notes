@@ -1,0 +1,3 @@
+Related to Disjuncts, see above, a disjunction is a [[conjunction]] (e.g. usually ‘either’ or ‘either….or’, but also ‘but’ or ‘yet’) that dramatically interrupts the rhythm of the sentence to introduce a contrast.
+
+For example, in the Great Gatsby by Fitzgerald Nick Carraway observes that: “Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on.” In this quotation, ‘but’ is used to dramatically dismiss the religious allusion in the previous clause.

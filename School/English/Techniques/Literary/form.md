@@ -1,0 +1,1 @@
+Purpose and features of a text influence its construction and will suggest its structure.

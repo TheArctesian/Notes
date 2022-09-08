@@ -1,0 +1,1 @@
+Rhyme is one of the most familiar techniques, and there is little to be said about it. Rhyme is often more of an organising feature and used to please aesthetically rather than to create meaning. Be careful in attributing meaning to rhyme in verse. It usually doesn’t mean anything.

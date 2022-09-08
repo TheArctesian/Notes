@@ -1,0 +1,3 @@
+A flashback is a scene appearing in a text that occurs earlier than the main narrative. Flashbacks can have many effects.
+
+A significant flashback occurs in George Orwell’s _Nineteen Eighty-Four_, in Part Two, Chapter 7. In this scene, a traumatic dream causes a flashback in the protagonist Winston Smith. The flashback concerns painful memories involving his family. The spontaneous nature of this flashback suggests that Winston has gone to lengths to repress the traumatic memory involving his family. It is also a narrative device. By revealing new details about Winston’s past, Orwell keeps the reader engaged and interested.

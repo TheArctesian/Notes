@@ -1,0 +1,1 @@
+The organic unit of a text. Its use of universal themes. This is an essential part of Year 11 and Year 12 Module B. [You can find a detailed explanation of Textual Integrity in this post.](https://www.matrix.edu.au/essential-guide-textual-integrity/)

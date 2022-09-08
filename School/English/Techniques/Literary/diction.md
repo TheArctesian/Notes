@@ -1,0 +1,3 @@
+The selective choice of words and style of expression by an author. Diction refers to the construction of expressions which allows a text to fulfill its purpose. It can impact the tone and representation of characters and setting.
+
+In the ‘Love Song Of J. Alfred Prufrock’, T.S Eliot utilises diction to convey the decay of humanity. His careful choice of language, particularly in “I have measured out my life with coffee spoons;/I know the voices dying with a dying fall.” Through comparing the quantity of life he has remaining to coffee spoons, Eliot is able to emphasise the degradation and fragility of human life.

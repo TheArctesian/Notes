@@ -1,0 +1,1 @@
+ Foreshadowing is simply an allusion to something that will happen later in the narrative.

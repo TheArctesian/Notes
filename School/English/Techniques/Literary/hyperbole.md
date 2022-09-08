@@ -1,0 +1,3 @@
+[A literary term for exaggeration](https://www.matrix.edu.au/literary-techniques-hyperbole/). This is a simple technique, so refer to it sparingly.
+
+In _Emma_, Jane Austen uses hyperbole in Elton’s comment that, “I have no hesitation in saying — at least if my friend feels at all as I do — I have not the smallest doubt that, could he see his little effusion honoured as I see it, (looking at the book again, and replacing it on the table), he would consider it as the proudest moment of his life,” to convey the growing misunderstanding between Elton, Harriet, and Emma about who fanices whom.

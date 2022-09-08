@@ -1,0 +1,3 @@
+A dialect is a form of English spoken by a particular group, such as a group of people from a particular region. If your text is written in a certain dialect, you could explain why the author has chosen to adopt this language. If a character speaks in a particular dialect, that is part of their [[characterization]] and suggests where they come from and their [[socio-economic status]].
+
+In _Nineteen Eighty-Four_, Orwell includes dialogue from a woman speaking in cockney English, a dialect historically associated with East London and the working class. From this, the reader can infer that the Proles in Orwell’s novel are descendants of Cockney speakers, an inference even the novel’s protagonist would not be able to make.

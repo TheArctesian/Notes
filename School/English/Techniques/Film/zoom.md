@@ -1,0 +1,1 @@
+The camera zooms in or out to focus on an object or to show how far away it is. Zooms can be used for dramatic effect or can be used to show objects in relation to each other for scale.

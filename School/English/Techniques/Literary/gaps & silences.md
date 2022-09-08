@@ -1,0 +1,1 @@
+What is not said; whose voice isn’t heard and whose voice dominates?

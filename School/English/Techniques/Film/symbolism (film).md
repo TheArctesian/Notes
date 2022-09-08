@@ -1,0 +1,1 @@
+An object used to suggest ideas in addition to, or beyond, their literal sense. For example, the glass slipper in _Cinderella_ symbolizes the opportunity that Cinderella has to live a different life. Watch films carefully to spot symbols and their potential meaning to the plot. If a symbol recurs throughout the film it is a _motif._

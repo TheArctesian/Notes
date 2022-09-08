@@ -1,0 +1,3 @@
+Emotive, forceful, factual, descriptive, blunt, graphic, disturbing, informative etc. E.g. use of forceful verbs ‘insist’ & ‘demand’ can be very persuasive. Diction is a useful technique to discuss, especially if you are using it to convey information about the characterisation of that person.
+
+For example, in Shakespeare’s _Othello_, Iago’s bestial and demonic diction is adopted by Othello as the play progresses, symbolising the loss of Othello’s nobility.

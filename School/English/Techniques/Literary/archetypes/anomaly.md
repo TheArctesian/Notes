@@ -1,0 +1,1 @@
+In a text, an anomaly is something which deviates from what is normal or expected.

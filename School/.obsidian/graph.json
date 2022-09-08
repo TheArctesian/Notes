@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Computer Science\"",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.3438798081390755,
-  "close": false
+  "scale": 0.16403703110804643,
+  "close": true
 }

@@ -1,0 +1,1 @@
+Incongruity, parody, satire, exaggeration, irony, puns etc. used to lighten the overall tone.

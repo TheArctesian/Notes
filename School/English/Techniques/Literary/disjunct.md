@@ -1,0 +1,3 @@
+A disjunct is a type of [[adverb]] that modifies a whole sentence. They function in a similar way to introductory clauses and introduce examples or observations by commenting on them.
+
+Jane Austen begins _Pride and Prejudice_ with a disjunct_:_ “It is a truth **universally** acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” The initial clause about acknowledged truth is modified by “universally” to make it hyperbolic and satirise the regency conventions of marriage.

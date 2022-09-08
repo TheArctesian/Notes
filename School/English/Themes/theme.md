@@ -1,0 +1,1 @@
+Message or moral of a story – makes us ponder bigger issues in life.

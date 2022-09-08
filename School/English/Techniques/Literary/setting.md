@@ -1,0 +1,1 @@
+Location of a story – internal and external.

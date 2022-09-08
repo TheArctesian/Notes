@@ -1,5 +1,5 @@
 - [ ] English IO 
 - [ ] Math IA
-- [ ] CS IA
+- [x] CS IA
 - [ ] CS EE 
 - [ ] Psyc IA 
