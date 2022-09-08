@@ -1,41 +1,29 @@
 {
   "main": {
-    "id": "ea2ecf2201a52f90",
+    "id": "55c663e2d6bf7639",
     "type": "split",
     "children": [
       {
-        "id": "a41a0200cf6f8424",
+        "id": "1d81f67a1a5de902",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-       }
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "87df73aea80190cd",
+    "id": "8d8fdc648dada2b3",
     "type": "split",
     "children": [
       {
-        "id": "c67b74ec19e6b06d",
+        "id": "041c5a04d865e4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "cdea49417ca064bb",
-=======
-    "id": "8d5d8d2fa0b5836d",
-    "type": "split",
-    "children": [
-      {
-        "id": "b730bdf7040165fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "450635156319f323",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "b1499d1734e6ab4d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,11 +31,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5ee47d81c33bec03",
-=======
-            "id": "e9df3222eb118c44",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "4ca6f4d06071912c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,11 +46,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "468511f2349113c4",
-=======
-            "id": "91f8d3e7b3428e12",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "a86201a9119f278f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -80,26 +60,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "3cb708360fe2518f",
+    "id": "32bbc288a781a4f3",
     "type": "split",
     "children": [
       {
-        "id": "2df2bf920be69ec8",
+        "id": "1c576dd0521ab628",
         "type": "tabs",
         "children": [
           {
-            "id": "d868b34bc9efb7cf",
-=======
-    "id": "2dd01ac5cbba1e26",
-    "type": "split",
-    "children": [
-      {
-        "id": "07a86d49fd8ced50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54a30de2a54440b9",
+            "id": "48a564017cace3ca",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -107,16 +76,11 @@
             }
           },
           {
-            "id": "69c66be78b360504",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "04f8e3df821b8da8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Studies/Abrams et al (1990).md",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,30 +92,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "299e8b773b469733",
-=======
-            "id": "dbb478564cbdc2aa",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "eb2b1fc7ef97f982",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Studies/Abrams et al (1990).md",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "4dcc6ec26c44fa8d",
-=======
-            "id": "5ebfbdc17848952a",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "a97172f10e8da253",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,8 +114,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "2fbb7504a22cf1b7",
+            "id": "130efcf82fce00d1",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,36 +122,12 @@
             }
           },
           {
-            "id": "40c688ff241741e4",
-=======
-            "id": "ef74edd121ec3e82",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Studies/Abrams et al (1990).md"
-              }
-            }
-          },
-          {
-            "id": "a78959421107a1d0",
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
+            "id": "353370128ba2767d",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "34c06c6c4ffcec12",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-=======
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
           }
         ]
       }
@@ -209,21 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "cdea49417ca064bb",
-  "lastOpenFiles": [
-    "Research Methods/Evaluating Experiments/Participants Variability.md",
-    "Research Methods/Evaluating Experiments/Artificiality.md",
-    "Research Methods/Ethics/Avoidance of deception.md",
-    "Research Methods/Evaluating Research.md",
-    "Research Methods/Methods/Longitudinal Study.md",
-    "Studies/HM: Milner (1966).md",
-    "Cognitive/Cognitive Processes/Memory Models.md",
-    "Core/Cognitive Approach.md"
-=======
-  "active": "81a7e797c33243c4",
-  "lastOpenFiles": [
-    "Studies/Alter et al (2007).md"
->>>>>>> 75148f9b4d73c8ab4305267929f1481007feccce
-  ]
+  "active": "1d81f67a1a5de902",
+  "lastOpenFiles": []
 }

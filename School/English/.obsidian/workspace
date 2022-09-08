@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Paper 1/Concepts/Transformation.md",
+            "file": "Techniques/Literary Techniques.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1/Concepts/Transformation.md",
+                "file": "Techniques/Literary Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1/Concepts/Transformation.md",
+                "file": "Techniques/Literary Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1/Concepts/Transformation.md"
+                "file": "Techniques/Literary Techniques.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "7bb2f1f65e7de1d9",
   "lastOpenFiles": [
+    "Paper 1/Concepts/Transformation.md",
     "Paper 1/Concepts/Communication.md",
     "Paper 1/Concepts/Perspectives.md",
     "Paper 1/Concepts/Creativity.md",
@@ -147,7 +148,6 @@
     "IO/Things to rmb.md",
     "Blooms Taxonomy.md",
     "IO/Intro.md",
-    "IO/Manari.md",
-    "IO/Unaccustomed Earth.md"
+    "IO/Manari.md"
   ]
 }

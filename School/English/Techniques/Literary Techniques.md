@@ -1,0 +1,6 @@
+- [[Allegory]]
+- [[Allusion]]
+- [[Alliteration]]
+- [[Ambiguity]]
+- [[Analogy]]
+- [[Anecdote]]
