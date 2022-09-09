@@ -7,8 +7,24 @@
         "id": "1d81f67a1a5de902",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Abnormal/Etiology/Etiology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "83f3d3b27da57ddd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Abnormal/Diagnosis/Comorbidity.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Abnormal/Diagnosis/Comorbidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Abnormal/Diagnosis/Comorbidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Abnormal/Diagnosis/Comorbidity.md"
+              }
             }
           },
           {
@@ -136,6 +156,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d81f67a1a5de902",
-  "lastOpenFiles": []
+  "active": "b1499d1734e6ab4d",
+  "lastOpenFiles": [
+    "Abnormal/Etiology/Bio Etiology.md",
+    "Abnormal/Etiology/Affective symptoms.md",
+    "Abnormal/Etiology/Cog Etiology.md",
+    "Abnormal/Etiology/Sociocultural Etiology.md",
+    "Abnormal/Etiology/Etiology.md"
+  ]
 }

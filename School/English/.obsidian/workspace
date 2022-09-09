@@ -7,12 +7,8 @@
         "id": "011b2ef5cc649a5b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tone/tone.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tone/tone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tone/tone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tone/tone.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,15 +131,15 @@
   },
   "active": "011b2ef5cc649a5b",
   "lastOpenFiles": [
+    "Words/Milieu.md",
+    "Tone/tone.md",
     "Techniques/Visual/angle.md",
     "Techniques/Visual Techniques.md",
     "Techniques/Literary/word choice.md",
-    "Tone/tone.md",
     "Techniques/Literary/rhyme.md",
     "Techniques/Literary Techniques.md",
     "Techniques/Literary/figurative language & sound devices.md",
     "Techniques/Literary/satire.md",
-    "Techniques/Literary/setting.md",
-    "Techniques/Literary/simile.md"
+    "Techniques/Literary/setting.md"
   ]
 }
