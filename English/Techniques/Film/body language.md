@@ -1,0 +1,1 @@
+Facial expressions, gestures, stance or position – can convey the attitude, feelings or personality of the individual shown.

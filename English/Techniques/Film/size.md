@@ -1,0 +1,1 @@
+This describes the size of an object. Artists often play with the size of parts of their work to develop a particular meaning.

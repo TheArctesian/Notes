@@ -1,0 +1,1 @@
+What has been deliberately left out of the image.

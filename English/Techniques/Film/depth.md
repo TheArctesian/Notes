@@ -1,0 +1,3 @@
+Depth refers to the three-dimensional aspect of an image. Composers use depth to create a sense of scale or proportion. They also use depth to illustrate the proximity between objects.
+
+[![english-techniques-visual-techniques-depth-of-field](https://www.matrix.edu.au/wp-content/uploads/2018/09/english-techniques-visual-techniques-depth-of-field.jpg)](https://www.matrix.edu.au/wp-content/uploads/2018/09/english-techniques-visual-techniques-depth-of-field.png)

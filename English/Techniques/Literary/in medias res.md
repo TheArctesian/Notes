@@ -1,0 +1,2 @@
+This means ‘in the middle of things,’ and it refers to narratives that begin in the middle of action, as opposed to slowly building up to this action. This is an ancient technique, and it has a number of meanings. Most obviously, it’s a hook to draw the reader in. It can also be used to disorientate.
+Homer’s Iliad, the first text of western literature, begins in medias res. The Tempest begins in medias res, many years after Prospero and his daughter, Miranda, have been stranded on Caliban’s Isle after Antonio’s treachery.

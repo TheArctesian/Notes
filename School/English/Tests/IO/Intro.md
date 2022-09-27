@@ -1,1 +1,0 @@
-My global issue is the Impact of migration on culture heritage

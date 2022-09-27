@@ -1,0 +1,1 @@
+Cucoloris is a lighting technique where an object is placed between the light source and the subject in order to create a patterned shadow.

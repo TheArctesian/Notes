@@ -1,0 +1,1 @@
+An effect of enjambment. The rejet is the disjunction between the appearance of a poem flowing between lines on a page and the pause that speakers unconsciously insert between lines when first reading a poem aloud. See [[enjambment]].

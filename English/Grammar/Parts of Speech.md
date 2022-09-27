@@ -1,0 +1,10 @@
+-   **[[nouns]] (and noun phrases)** – Words, or groups of words, that indicate an object or concept. Nouns have three cases:
+    -   Nominative (also known as the Subjective): Words used as the subject of a sentence
+    -   Possessive (also known as the Genetive): Words used to express ownership
+    -   Objective (also known as the accusative):  Words used as objects
+-   [[Pronouns]]– Words that stand in place of an object or concept
+-   **[[Verb]]s (and verb phrases)**– Words, or groups of words, that indicate an action
+-   **[[Adjectives]] ( and adjectival clauses)** – Words, or clauses, that describe a noun. When combined with a noun these are known as “noun phrases” and are treated as nouns.
+-   **[[Adverb]] (and adverbial phrase)** – Words that describe a verb
+-   [**[[Prepositions]] (and prepositional phrases)** Words that indicate the relationship between other parts of speech. For example, _above_ or _below_.
+-   **[[Conjunctions]]**Words that connect different clauses by showing a relation between them.

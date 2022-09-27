@@ -1,0 +1,1 @@
+Harsh sounds in a sentence or phrase. While this can be used to draw attention to specific things in the sentence, more often than not it is purely an aesthetic device. Use this technique with caution.

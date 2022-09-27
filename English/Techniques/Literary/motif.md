@@ -1,0 +1,3 @@
+A motif is an image, sound, figure, character archetype or object which has a symbolic reference to a particular theme or idea. A motif is a recurring symbol with a figurative meaning and is quite easy to spot due to its prominence.
+
+In Great Gatsby, Fitzgerald utilises the recurring motif of weather to reflect the emotions experienced by the characters. When Daisy and Gatsy reunite it is pouring however when there love reignites the sun is just coming out.

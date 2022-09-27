@@ -1,0 +1,1 @@
+A transition that moves between one shot and another by overlaying one shot and fading the first image out while strengthening the second shot. This can denote daydreams, memories, the passing of time, or signify phone conversations and long-distance communication.

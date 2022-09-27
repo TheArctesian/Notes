@@ -1,0 +1,1 @@
+Chung was born on October 19, 1978, in Denver, to a family from South Korea. His family lived briefly in Atlanta before moving to a small farm in rural Lincoln, Arkansas.He attended Lincoln High School.

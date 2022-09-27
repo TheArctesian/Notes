@@ -1,0 +1,5 @@
+Pathetic fallacy is the attribution of human emotions to nonhuman objects, particularly objects of nature. Note that the term should just apply to the ascription of emotions, not thoughts or other properties. The term was invented by the English writer John Ruskin, and is widely used in literature.
+
+In Dickens’ _Great Expectations,_ Pip’s misery is reflected in the weather which surrounds him:
+
+“It was wretched weather; stormy and wet, stormy and wet; and mud, mud, mud, deep in all the streets. Day after day, a vast heavy veil had been driving over London from the East, and it drove still, as if in the East there were an Eternity of cloud and wind. So furious had been the gusts, that high buildings in town had had the lead stripped off their roofs; and in the country, trees had been torn up, and sails of windmills carried away; and gloomy accounts had come in from the coast, of shipwreck and death. Violent blasts of rain had accompanied these rages of wind, and the day just closed as I sat down to read had been the worst of all.”

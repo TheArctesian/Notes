@@ -1,0 +1,3 @@
+![The right-hand rule applied to a conductive wire](https://cdn.kastatic.org/ka-perseus-images/97c916a4135df98735241fd7f06bedbed019ca00.svg)
+![Diagram of moving charge, magnetic force, and magnetic field line on a hand making the right-hand rule gesture](https://cdn.kastatic.org/ka-perseus-images/73e3a6b05947364a0128ba9285151daf9dfd18d0.svg)
+![A magnetic field around a wire with current moving upward](https://cdn.kastatic.org/ka-perseus-images/2ba984f40973c3b500ad89bf114b1d2f1e16aff1.svg)

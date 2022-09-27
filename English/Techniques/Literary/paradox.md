@@ -1,0 +1,3 @@
+A statement that is self-contradictory or logically unacceptable but has valid reasoning based on a true premise. It is a juxtaposition of contradictory-yet-interrelated ideas which have a hidden truth.
+
+In George Orwell’s Nineteen Eighty-Four, The Party’s slogan “War is peace, freedom is slavery, and ignorance is strength,” is a clear example of a paradox whereby each idea contradicts the other. Thus, Orwell clearly utilises contradictory statements throughout his novel to place emphasis on a society controlled by a totalitarian government.

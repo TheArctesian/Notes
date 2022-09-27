@@ -1,0 +1,1 @@
+A type of extreme long-shot that establish the context – time and setting – of a scene or film. Often establishing shots use famous landmarks or places, like the Sydney Harbour Bridge.

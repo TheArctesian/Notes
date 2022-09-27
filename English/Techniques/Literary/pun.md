@@ -1,0 +1,3 @@
+ A pun is formed by exploiting two different meanings of the same sound.
+
+Richard’s famous soliloquy at the start of Mod A text Richard III includes a pun. Speaking at the end of a battle, Richard declares that ‘Now is the winter of our discontent / Made glorious summer by this sun of York.’ The sun of York brings this summer, and ‘sun’ is, of course, a pun on ‘son’ as Edward is the first son of the York family – and thus the rightful heir to the throne (according to the Yorks).

@@ -1,0 +1,1 @@
+What is included is deliberately placed (also applies to what is omitted). Consider all inclusions and omissions e.g. surroundings, objects, clothing etc.

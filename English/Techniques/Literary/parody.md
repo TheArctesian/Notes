@@ -1,0 +1,4 @@
+  
+Conscious imitation for a satiric purpose. Parody is a style that mocks the serious manner and characteristic features of literary works through imitation. Parodies work by exaggerating certain traits common to the work.
+
+In George Orwell’s _Nineteen Eighty-Four_ Winston reads a heretical political tract called ‘The Theory and Practice of Oligarchical Collectivism’. This tract is clearly a parody of political writing and in particular the theoretical writing of communist revolutionaries like Vladimir Lenin, Leon Trotsky, and Joseph Stalin. Orwell’s aim is to subvert the self-important, vague, and even contradictory style found in these texts.

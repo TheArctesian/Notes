@@ -1,0 +1,3 @@
+The line that our eyes take when looking at a visual. Composers deliberately direct our reading path through the vectors. E.g. If all of the subjects are tall, long and upright our eyes follow straight vectors that lead to the top of the frame. This could make the subject seem powerful or inflexible.
+
+[![english-techniques-visual-techniques-vector-lines](https://www.matrix.edu.au/wp-content/uploads/2018/09/english-techniques-visual-techniques-vector-lines.jpg)](https://www.matrix.edu.au/wp-content/uploads/2018/09/english-techniques-visual-techniques-vector-lines.png)

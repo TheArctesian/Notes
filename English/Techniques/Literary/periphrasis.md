@@ -1,0 +1,3 @@
+Circumlocution. That is, the use of a longer expression for an idea where a shorter one might suffice. Periphrasis is widespread, and often quite significant as a technique. Writers sometimes use periphrasis to refer to an object or person in a more creative way, or to avoid repetition.
+
+In Shakespeare’s _Hamlet_, Polonius often speaks periphrastically, from which the reader can infer much about his character.

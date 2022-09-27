@@ -1,0 +1,1 @@
+How a composer conveys meaning through textual features. This is a key concept in works of art.

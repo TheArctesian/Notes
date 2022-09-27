@@ -1,0 +1,1 @@
+The use of an image to represent one or more (often complex) ideas.

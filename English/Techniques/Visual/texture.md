@@ -1,0 +1,1 @@
+The actual texture of an object. Is it rough or smooth? Does it have ridges and different feelings to touch. For example, oil paints are quite thick and give paintings a unique thickness that artists can intensify by having lots of layers. Some artists experiment with different textures to develop meaning in their works.

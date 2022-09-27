@@ -1,0 +1,2 @@
+When a text makes a reference to other texts. This reference can be an explicit quotation or implied and inferred by allusion.
+For example, much of the meaning in Margaret Edson’s play W;t is developed through constant intertextual references to the poetry of John Donne.

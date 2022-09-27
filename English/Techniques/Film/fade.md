@@ -1,0 +1,1 @@
+An editing technique where the shot fades out from one shot going to black before fading into a new shot.

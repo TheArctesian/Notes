@@ -1,0 +1,1 @@
+Cross-cutting is an editing technique where actions are established as occurring at the same time. The camera will cut away from one action to another action elsewhere to suggest these things are occurring at the same moment.
